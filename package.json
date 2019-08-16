@@ -1,5 +1,5 @@
 {
-  "name": "rc-time-picker",
+  "name": "mk-rc-time-picker",
   "version": "3.7.1",
   "description": "React TimePicker",
   "keywords": [
@@ -24,7 +24,7 @@
   "author": "wuzhao.mail@gmail.com",
   "repository": {
     "type": "git",
-    "url": "git@github.com:react-component/time-picker.git"
+    "url": "git@github.com:jivinliu/time-picker.git"
   },
   "bugs": {
     "url": "http://github.com/react-component/time-picker/issues"
